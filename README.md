@@ -30,7 +30,7 @@ All the models are trained using multiple NVIDIA TITAN Xp GPUs.
 - [Embedding model](https://github.com/svenspa/Gaze_Multilingual_LMs/tree/master/embedding_model) you can run via `unsupervised.py` with arguments.
 
 ## Pre-trained models
-Our pre-trained models will be available soon (Checking regulation issues).
+pre-trained models will be available soon (Checking regulation issues).
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/sven-spa-1b4269b3)
