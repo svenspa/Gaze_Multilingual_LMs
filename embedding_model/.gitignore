@@ -1,9 +1,0 @@
-#Folders
-data/
-dumped/
-wandb/
-__pycache__/
-
-#Files
-demo.ipynb
-*.out
