@@ -17,6 +17,7 @@ All the models are trained using multiple NVIDIA TITAN Xp GPUs.
 - Python 3.6.13
 - PyTorch 1.8.0
 - Faiss 1.7.2
+- eli5 0.13.0
 
 ## Data
 - [CoNLL 2002](https://www.clips.uantwerpen.be/conll2002/ner/)
